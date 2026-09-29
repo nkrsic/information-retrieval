@@ -1,0 +1,2 @@
+- An AI recommender / assistant that helps to surface useful connections existing in an Obsidian vault
+- User should be able to guide further learning from the UI of the program / assistant with input about relevance and aspects of search 
